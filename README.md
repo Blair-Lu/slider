@@ -4,7 +4,8 @@
 
 在構思時特別重視UX體驗，在web端有下排按鈕以及圖片皆可選取，mobile端把下排按鈕隱藏並更改排列方式，點選圖片後其他選項會變暗，提示使用者已選取。
 
-### 有RWD，適用於多種規格
+使用HTML/CSS/jQuery
+RWD，適用於多種規格
 ***
 ### GitHub Pages
 [Google](https://blair-lu.github.io/slider/slider.html)
