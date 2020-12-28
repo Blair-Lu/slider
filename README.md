@@ -8,7 +8,7 @@
 RWD，適用於多種規格
 ***
 ### GitHub Pages
-[Google](https://blair-lu.github.io/slider/slider.html)
+[click](https://blair-lu.github.io/slider/slider.html)
 
 
 ### web GIF 
